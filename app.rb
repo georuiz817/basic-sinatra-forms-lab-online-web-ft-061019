@@ -8,7 +8,7 @@ end
 
 post "/team" do 
   
-erb :team 
+erb :newteam 
 end
 
 end
