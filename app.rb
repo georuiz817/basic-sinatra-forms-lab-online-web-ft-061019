@@ -7,7 +7,7 @@ erb :newteam
 end
 
 post "/team" do 
-@list = 
+@list = params[]
 
 erb :team 
 end
